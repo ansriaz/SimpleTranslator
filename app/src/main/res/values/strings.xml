@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyTranslator</string>
+    <string name="langNotFound">Language not found</string>
+</resources>
