@@ -1,9 +1,4 @@
-# SimpleTranslator
-(version 1.0)
-
-A simple translator that look up the meaning and translations of words between different languages. Text to speak facility is added for the lookup words. 
-
-# Simple Translator (version 1.0)
+# Simple Translator
 
 A simple translator that look up the meaning and translations of words between different languages. Text to speak facility is added for the lookup words. 
 
